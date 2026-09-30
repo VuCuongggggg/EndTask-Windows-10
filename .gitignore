@@ -1,0 +1,31 @@
+# Build output
+build/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.VC.db
+*.VC.opendb
+*.ipch
+*.sln.docstates
+*.ncb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+*.cmake
+
+# EndTask10 local install
+LocalEndTask10/
